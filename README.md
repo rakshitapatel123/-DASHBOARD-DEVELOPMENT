@@ -68,3 +68,5 @@ A Power BI Dashboard (.pbix file)
 Dataset used (.csv or .xlsx)
 
 Summary of key insights
+
+<img width="1318" height="734" alt="Image" src="https://github.com/user-attachments/assets/8ce70790-1e31-4d76-8967-26d944f06906" />
